@@ -1,6 +1,11 @@
 <?php 
 
 echo "Hola , soy El Bachir Zriguinat ";
+if(a==1){
+    else{
+
+    }
+}
 ?>
 
 !DOCTYPE html>
